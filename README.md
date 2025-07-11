@@ -1,4 +1,6 @@
-# projeto-profile
-# pj-profile
-# pj-profile
-# pj-profile
+Projeto feito por:
+
+> HTML
+> CSS
+> JS
+> GIT - GITHUB
